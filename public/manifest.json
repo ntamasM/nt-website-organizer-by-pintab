@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Website Organizer",
+  "version": "1.0",
+  "description": "Save and organize websites into categories and open them in pinned tabs.",
+  "permissions": ["storage", "tabs"],
+  "background": {
+    "service_worker": "assets/background.js"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": ["<all_urls>"]
+}

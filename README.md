@@ -69,11 +69,11 @@ npm run build
 
 - Save websites with custom titles.
 - Organize websites into categories for better management.
+- Drag and drop to reorder websites.
 
 ### Managing Categories
 
 - Create new categories or choose from existing ones.
-- Drag and drop to reorder categories.
 - Click category titles to view or open all websites in that category.
 
 ### Opening Websites
@@ -109,7 +109,6 @@ nt-website-organizer-by-pintab/
 │   ├── hooks/            # Custom React hooks
 │   ├── pages/            # Application pages
 │   ├── styles/           # Tailwind CSS configurations
-│   ├── utils/            # Utility functions
 │   └── main.tsx          # Entry point
 ├── tailwind.config.js    # Tailwind CSS configuration
 ├── vite.config.ts        # Vite configuration
@@ -117,21 +116,6 @@ nt-website-organizer-by-pintab/
 ├── README.md             # Project documentation
 └── tsconfig.json         # TypeScript configuration
 ```
-
----
-
-## Issues and Improvements
-
-### Current Issues
-
-1. Categories are not displayed upon creation.
-2. The category selection dropdown does not show existing categories.
-
-### Planned Improvements
-
-- Assign unique IDs to websites and categories for better management.
-- Fix React Hook issues related to `useDrag`.
-- Enhance drag-and-drop functionality for improved user experience.
 
 ---
 

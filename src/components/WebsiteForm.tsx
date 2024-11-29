@@ -101,9 +101,7 @@ const WebsiteForm: React.FC<WebsiteFormProps> = ({
             className="p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-400"
             required
           />
-        ) : (
-          ""
-        )}
+        ) : null}
       </div>
       <button
         type="submit"

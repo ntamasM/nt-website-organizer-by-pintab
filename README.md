@@ -1,5 +1,7 @@
 # NT Website Organizer by PinTab
 
+![Extension Preview](./public/logo/Logo128.png)
+
 **NT Website Organizer by PinTab** is a Chrome extension designed to help you manage, categorize, and organize your favorite websites efficiently. It enables you to save websites, group them into categories, and open them in pinned tabs for streamlined browsing. This extension is built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**.
 
 ---

@@ -3,7 +3,7 @@
   "name": "Website Pintabs Organizer by Ntamas",
   "version": "1.1.0",
   "description": "Save and organize websites into categories and open them in pinned tabs.",
-  "permissions": ["storage", "tabs"],
+  "permissions": ["storage"],
   "icons": {
     "16": "logo/Logo16.png",
     "48": "logo/Logo48.png",

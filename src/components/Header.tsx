@@ -9,12 +9,12 @@ const Header: React.FC = () => {
         rel="noopener noreferrer"
       >
         <img
-          src="logo/Logo128.png"
+          src="logo/WPO-Logo-without-bg-1080.png"
           alt="Logo"
-          className="w-[40px] aspect-square"
+          className="w-[100px] h-auto"
         />
       </a>
-      <h1 className="text-xl text-gray-800 font-bold">
+      <h1 className="text-lg text-gray-800 font-bold">
         Website Pintabs Organizer <span className="text-sm">by Ntamas</span>
       </h1>
     </header>
